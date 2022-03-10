@@ -147,7 +147,7 @@ p {
   width: 100%;
   max-width: 40px;
   border-radius: 50%;
-  border: 2px solid var(--clr-white);
+  border: 1px solid var(--clr-white);
 }
 
 .card-author p {
