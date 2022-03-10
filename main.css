@@ -55,8 +55,8 @@ p {
 
 .card {
   background-color: var(--clr-dark-blue-500);
-  padding: 1rem;
-  width: 350px;
+  padding: 1.2rem;
+  width: 320px;
   border-radius: 1rem;
   margin-bottom: 1rem;
 }
@@ -117,7 +117,7 @@ p {
   align-items: center;
   margin-bottom: 1rem;
   padding: 0.5rem 0;
-  border-bottom: 1px solid var(--clr-soft-blue);
+  border-bottom: 1px solid var(--clr-dark-blue-400);
 }
 
 .card-status .eth,
@@ -175,6 +175,6 @@ p {
 
 @media (max-width: 375px) {
   .card {
-    width: 300px;
+    width: 280px;
   }
 }
