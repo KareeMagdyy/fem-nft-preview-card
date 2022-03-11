@@ -59,6 +59,8 @@ p {
   width: 320px;
   border-radius: 1rem;
   margin-bottom: 1rem;
+  box-shadow: -30px 10px 20px rgba(0, 0, 0, 0.2),
+    30px 10px 20px rgba(0, 0, 0, 0.2), 0 30px 20px rgba(0, 0, 0, 0.2);
 }
 
 .img-container {
